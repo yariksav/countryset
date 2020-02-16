@@ -1,8 +1,8 @@
 {
   "name": "countryset",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Set of All Countries",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node src/index.js"
