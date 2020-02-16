@@ -1,0 +1,30 @@
+{
+  "name": "countryset",
+  "version": "0.0.1",
+  "description": "Set of All Countries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yariksav/countryset.git"
+  },
+  "keywords": [
+    "country",
+    "countries",
+    "json"
+  ],
+  "author": "Yaroslav Savaryn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yariksav/countryset/issues"
+  },
+  "homepage": "https://github.com/yariksav/countryset#readme",
+  "devDependencies": {
+    "country-calling-codes": "^1.1.2",
+    "country-telephone-data": "^0.6.0",
+    "lodash": "^4.17.15"
+  }
+}
